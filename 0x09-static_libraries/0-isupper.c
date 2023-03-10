@@ -2,10 +2,10 @@
 
 
 /**
- * _islower - Empty function
+ * _isupper - Empty function
  *
  * Return: Always 0.
  */
-int _islower(int c)
+int _isupper(int c)
 {
 }
